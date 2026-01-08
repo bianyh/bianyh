@@ -1,15 +1,8 @@
 ## Hi there 👋 I'm bianyh
-![Typing SVG](https://readme-typing-svg.herokuapp.com
-    ?font=Fira+Code
-    &size=22
-    &pause=1200
-    &color=2F80ED
-    &center=true
-    &vCenter=true
-    &width=700
-    &lines=你好，我是+bianyh;
-           西安电子科技大学+软件工程;
-           研究方向：大语言模型...)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1200&color=2F80ED&center=true&vCenter=true&width=700&lines=你好%EF%BC%8C我是+bianyh;西安电子科技大学+软件工程;研究方向%EF%BC%9A大语言模型+%26+强化学习+%26+AI+Agents" />
+</p>
 
 
 🎓 Software Engineering @ Xidian University  
