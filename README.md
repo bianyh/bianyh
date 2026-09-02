@@ -1,13 +1,12 @@
 ## Hi there 👋 I'm bianyh
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1200&color=2F80ED&center=true&vCenter=true&width=700&lines=你好%EF%BC%8C我是+bianyh;西安电子科技大学+软件工程;研究方向%EF%BC%9A大语言模型+%26+强化学习+%26+AI+Agents" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1200&color=2F80ED&center=true&vCenter=true&width=750&lines=你好%EF%BC%8C我是+bianyh;本科%EF%BC%9A西安电子科技大学+软件工程;硕士%EF%BC%9A中国人民大学+计算机;研究方向%EF%BC%9A大语言模型+%26+强化学习+%26+AI+Agents" />
 </p>
 
-
-🎓 Software Engineering @ Xidian University  
+🎓 B.Eng. Software Engineering @ Xidian University
+🎓 M.S. Computer Science @ Renmin University of China
 🔬 Interested in LLM, RL & AI Agents......
-
 
 
 <!--
