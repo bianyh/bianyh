@@ -5,7 +5,9 @@
 </p>
 
 🎓 B.Eng. Software Engineering @ Xidian University
+
 🎓 M.S. Computer Science @ Renmin University of China
+
 🔬 Interested in LLM, RL & AI Agents......
 
 
