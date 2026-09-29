@@ -33,8 +33,6 @@
 - 2023 美国大学生数学建模竞赛 F 奖
 - 西安电子科技大学校级优秀学生、校一等奖学金
 
-我也在维护一个[每日论文精读站](https://bianyh.github.io/)，记录大模型与多模态大模型论文的原文、翻译、图表和个人理解。
-
 </details>
 
 <details>
@@ -59,8 +57,6 @@ My research interests include:
 - First Prize, Tencent Kaiwu Northwest Regional Final, 2026
 - Finalist Award, MCM/ICM 2023
 - Outstanding Student and First-class University Scholarship, Xidian University
-
-I also maintain a [daily paper reading notebook](https://bianyh.github.io/) with notes on LLM and multimodal LLM research.
 
 </details>
 
