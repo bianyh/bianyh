@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./profile.jpg" alt="Bian Yuhan" width="420">
+  <img src="./profile.jpg" alt="Bian Yuhan" width="260">
   <h1>边宇晗 · Bian Yuhan</h1>
   <p><strong>M.S. Student in Computer Science · Renmin University of China</strong></p>
   <p>
@@ -13,7 +13,7 @@
 <details open>
 <summary><strong>中文简介</strong></summary>
 
-我目前就读于**中国人民大学计算机科学与技术专业**，是硕士研究生一年级学生，师从**李直旭教授**。本科期间就读于**西安电子科技大学软件工程专业（2022–2026）**，在[褚华](https://faculty.xidian.edu.cn/CH2/zh_CN/index.htm)、[李佳楠](https://faculty.xidian.edu.cn/LJN1/zh_CN/index.htm)老师组中学习，并与[周洋涛](https://faculty.xidian.edu.cn/zhouyangtao/zh_CN/index.htm)师兄合作开展科研。
+我目前就读于**中国人民大学计算机科学与技术专业**，是硕士研究生一年级学生，师从[**李直旭教授**](https://demi-research.github.io/author/%E6%9D%8E%E7%9B%B4%E6%97%AD/)。本科期间就读于**西安电子科技大学软件工程专业（2022–2026）**，在[褚华](https://faculty.xidian.edu.cn/CH2/zh_CN/index.htm)、[李佳楠](https://faculty.xidian.edu.cn/LJN1/zh_CN/index.htm)老师组中学习，并与[周洋涛](https://faculty.xidian.edu.cn/zhouyangtao/zh_CN/index.htm)师兄合作开展科研。
 
 我的研究兴趣包括：
 
@@ -23,7 +23,7 @@
 
 ### 代表性论文
 
-**Breaking Knowledge Boundaries: Cognitive Distillation-enhanced Cross-Behavior Course Recommendation Model** · ACM RecSys 2025（Oral）
+**Breaking Knowledge Boundaries: Cognitive Distillation-enhanced Cross-Behavior Course Recommendation Model** · ACM RecSys 2025（Oral）· **Co-Author**
 
 [阅读论文](https://dl.acm.org/doi/10.1145/3705328.3748083) · [Google Scholar](https://scholar.google.com/citations?user=MPz-B4EAAAAJ&hl=zh-CN)
 
@@ -38,7 +38,7 @@
 <details>
 <summary><strong>English version</strong></summary>
 
-I am a first-year **M.S. student in Computer Science at Renmin University of China**, advised by **Professor Zhixu Li**. I received my B.Eng. in **Software Engineering from Xidian University (2022–2026)**, where I worked with the groups of [Hua Chu](https://faculty.xidian.edu.cn/CH2/zh_CN/index.htm) and [Jianan Li](https://faculty.xidian.edu.cn/LJN1/zh_CN/index.htm), and conducted research with [senior Yangtao Zhou](https://faculty.xidian.edu.cn/zhouyangtao/zh_CN/index.htm).
+I am a first-year **M.S. student in Computer Science at Renmin University of China**, advised by [**Professor Zhixu Li**](https://demi-research.github.io/author/%E6%9D%8E%E7%9B%B4%E6%97%AD/). I received my B.Eng. in **Software Engineering from Xidian University (2022–2026)**, where I worked with the groups of [Hua Chu](https://faculty.xidian.edu.cn/CH2/zh_CN/index.htm) and [Jianan Li](https://faculty.xidian.edu.cn/LJN1/zh_CN/index.htm), and conducted research with [senior Yangtao Zhou](https://faculty.xidian.edu.cn/zhouyangtao/zh_CN/index.htm).
 
 My research interests include:
 
@@ -48,7 +48,7 @@ My research interests include:
 
 ### Selected publication
 
-**Breaking Knowledge Boundaries: Cognitive Distillation-enhanced Cross-Behavior Course Recommendation Model** · ACM RecSys 2025 (Oral)
+**Breaking Knowledge Boundaries: Cognitive Distillation-enhanced Cross-Behavior Course Recommendation Model** · ACM RecSys 2025 (Oral) · **Co-Author**
 
 [Read the paper](https://dl.acm.org/doi/10.1145/3705328.3748083) · [Google Scholar](https://scholar.google.com/citations?user=MPz-B4EAAAAJ&hl=zh-CN)
 
